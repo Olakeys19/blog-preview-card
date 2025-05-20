@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://olakeys19.github.io/blog-preview-card/)
+- Solution URL: [https://github.com/Olakeys19/blog-preview-card)
 - Live Site URL: [https://olakeys19.github.io/blog-preview-card/)
 
 ## My process
